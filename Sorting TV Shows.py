@@ -1,3 +1,4 @@
+# Colton DeWitt - April 28, 2022
 dict_seasons_titles = {}  # Initialize empty dictionary for seasons key and titles value
 
 with open(input()) as input_file:  # Open the file input and read in the strings of seasons and titles
